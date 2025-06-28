@@ -1,0 +1,31 @@
+# --- FastAPI Ecosystem ---
+fastapi
+uvicorn[standard]
+sqlmodel
+python-dotenv
+
+# --- Background Tasks + Infra ---
+redis
+celery
+psycopg2-binary
+
+# --- File Uploads ---
+aiofiles
+python-multipart
+
+# --- Image Preprocessing ---
+pillow
+opencv-python-headless  # headless version is lighter for server-side/Docker use
+
+# --- OpenAI Integration ---
+openai
+
+# --- OCR Model (HuggingFace-based) ---
+torch
+torchvision
+transformers
+huggingface_hub
+
+# Optional (if you end up calling Hugging Face inference endpoints instead of loading locally)
+# requests
+# httpx
