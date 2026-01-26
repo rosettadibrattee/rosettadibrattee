@@ -27,5 +27,6 @@ sometimes a lab, sometimes a wreck.
 frontend   → react / next / expo
 backend    → fastapi / python
 infra      → docker / fly / vercel / cloudflare
-data       → postgres / redis / “whatever survives contact with reality”
+data       → postgres / redis / docker
+
 
