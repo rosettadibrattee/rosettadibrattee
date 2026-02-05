@@ -10,7 +10,7 @@ sometimes a lab, sometimes a wreck.
 
 ## who i am
 - Full-stack enthusiast.
-- Half technical, half artistey.  
+- Half technical, half artistry.  
 - Currently in a relationship with my OpenAI subscription.
 
 ---
