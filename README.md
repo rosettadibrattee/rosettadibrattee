@@ -8,11 +8,11 @@ sometimes a lab, sometimes a wreck.
 
 ---
 
-## who i am
+## who i am:
 - Full-stack enthusiast.
 - Half technical, half artistry.  
 - Currently in a relationship with my OpenAI subscription.
-
+- Based in Italy.
 ---
 
 ## my stack
@@ -26,5 +26,5 @@ data       → postgres / redis / docker
 
 ---
 
-“Until you make the unconscious conscious, it will direct your life and you will call it fate.”
-— Carl Jung
+“Until you make the unconscious conscious, it will direct your life and you will call it fate.” ~ Carl Jung
+
