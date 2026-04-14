@@ -1,7 +1,6 @@
 # rosettadibrattee 🗿
-
 Your spaghetti-eating full-stack development guy. 
-Currently focused on making it BIG, one *beep boop* at a time.
+Currently focused on one *beep boop* at a time.
 
 Welcome to my **workspace**.  
 sometimes a lab, sometimes a wreck.
