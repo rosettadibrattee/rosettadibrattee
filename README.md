@@ -1,4 +1,4 @@
-# rosettadibrattee 🗿
+# RosettaDiBrattee 🗿
 Your spaghetti-eating full-stack development guy. 
 Currently focusing on one *beep boop* at a time.
 
